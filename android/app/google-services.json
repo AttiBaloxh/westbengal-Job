@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494202469307",
+    "project_id": "westbengaljobs",
+    "storage_bucket": "westbengaljobs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494202469307:android:9cdf631eb6225a74e5a29e",
+        "android_client_info": {
+          "package_name": "com.spectcore.westbengaljob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494202469307-nl8ddk9h73l3dn0fkkfqklptntkk3pb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnpDhtCUEA_Mq8MEF5yfNPeKfSuwXbSxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494202469307-nl8ddk9h73l3dn0fkkfqklptntkk3pb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
